@@ -1,0 +1,4 @@
+parm mol.prmtop
+trajin analysis-wrap_Prod15-isotropic_0025.nc 1376 1376
+trajout output.pdb pdb
+go
